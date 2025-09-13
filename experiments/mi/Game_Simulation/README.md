@@ -12,7 +12,7 @@ To validate the model's real-world applicability, a simulation game was used whe
 
 click the video to play it.
 
-[![](assets/experiment_settings.jpg)](assets/video_game.mp4)
+[![](assets/experiment_settings.jpg)](assets/video_game.gif)
 
 ## 2. Custom Data Collection Environment
 
@@ -20,7 +20,7 @@ A custom data collection experiment was conducted to gather user-specific EEG da
 
 click the video to play.
 
-[![](assets/experiment.png)](assets/experiment.mp4)
+[![](assets/experiment.png)](assets/experiment.gif)
 
 ### Experimental Protocol
 - **Hardware**: An 8-channel **UNICORN HYBRID BLACK** wearable EEG headset was used for data acquisition.
